@@ -1,1 +1,8 @@
+# 파이썬 바이트코드 제외
+__pycache__/
+*.py[cod]
+*$py.class
 
+# 에디터 설정 제외
+.vscode/
+.idea/
